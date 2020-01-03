@@ -1,0 +1,1 @@
+for i,v in next, playerstable do v.Chatted:Connect(function(msg) print(msg) end) end

